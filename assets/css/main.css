@@ -1,0 +1,8 @@
+@import url(https://fonts.bunny.net/css?family=inter:500,600,700);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Inter', sans-serif;
+}
